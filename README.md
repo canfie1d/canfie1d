@@ -1,11 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ryan Canfield
+Hi, my name is Ryan Canfield
 =====================================================================================================================================
 
-Hands-in-code Engineering Leadership
-------------------------------------
-
-* 🌍  I'm based in Seattle
-* 🖥️  See my portfolio at [ryancanfield.me](https://ryancanfield.me)
+* 🌍  Engineering Manager based in Seattle
+* 🖥️  See my website at [ryancanfield.me](https://ryancanfield.me)
 * ✉️  You can contact me at [ryancanfield@me.com](mailto:ryancanfield@me.com)
 
 ### Skills
